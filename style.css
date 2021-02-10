@@ -10,8 +10,5 @@ a:link { color: #98ff98;}
 a:visited { color: #f7bb4a;}
  
 img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  border-radius: 50%;
 }
