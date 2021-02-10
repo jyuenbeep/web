@@ -1,7 +1,8 @@
 
 
-body { background-color: #000000 ; font-family: garamond; }
+body { background-color: #000000 ; font-family: 	Times New Roman; }
 h1, h2, h3, h4, h5, h6 {color: #f7bb4a; }
+h1 {font: bold cursive;}
 ul, ol {color: white;}
 p {color: white; background-color: none;}
 
